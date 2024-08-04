@@ -1,0 +1,8 @@
+[package]
+name = "chess_with_bevy"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+macroquad = "0.4.11"
+once_cell = "1.19.0"
